@@ -391,6 +391,7 @@ h1, h2, h3, h4, h5
 .Page iframe
 {
     margin: 20px auto 30px auto;
+    display: block;
 }
 
 /* Mobile */
