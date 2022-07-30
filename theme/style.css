@@ -4,7 +4,7 @@
 {
     margin: 0;
     font-family: 'Raleway', sans-serif;
-    font-size: 17px;
+    font-size: 19px;
     line-height: 1.6rem;
     color: rgb(225, 225, 225);
 }
@@ -368,7 +368,7 @@ h1, h2, h3, h4, h5
     margin: 0.4rem 0rem 1.2rem 0rem;
 }
 
-.RightContainer iframe 
+.IframeArticle iframe
 {
     display: block;
     border: none;
