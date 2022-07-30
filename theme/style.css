@@ -122,6 +122,17 @@ h1, h2, h3, h4, h5
     padding: 10px 0px;
 }
 
+.bmc-btn-container
+{
+    text-align: center;
+}
+
+.bmc-btn
+{
+    min-width: 150px;
+    font-size: 17px;
+}
+
 .TwitterFollow
 {
     font-family: 'Montserrat', sans-serif;
