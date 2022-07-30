@@ -138,6 +138,11 @@ h1, h2, h3, h4, h5
     text-decoration: none;
 }
 
+.TwitterLink:hover
+{
+    text-decoration: none;
+}
+
 .TwitterLogo 
 {
     width: 40px;
