@@ -23,7 +23,6 @@ h1, h2, h3, h4, h5
 {
     font-family: 'Montserrat', sans-serif;
     margin: 0.4em 0 0.4em 0; 
-    text-align: center;
 }
 
 /* Nav */
@@ -131,6 +130,12 @@ h1, h2, h3, h4, h5
     align-items: center;
     gap: 10px;
     margin-bottom: 40px;
+}
+
+.TwitterFollow a 
+{
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .TwitterLogo 
@@ -328,6 +333,7 @@ h1, h2, h3, h4, h5
     background: -webkit-linear-gradient(-45deg, rgb(110,190,180) 0%,rgb(80,130,160) 99%);
     background: linear-gradient(135deg, rgb(110,190,180) 0%,rgb(80,130,160) 99%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6ebeb4', endColorstr='#5082a0',GradientType=1 );
+    text-decoration: none;
 }
 
 /* Pages */ 
@@ -442,7 +448,7 @@ h1, h2, h3, h4, h5
 
     .LeftNavLink 
     {
-        padding: 10px 0 10px 0;
+        padding: 10px 0 10px 40px;
     }
 
     .TwitterFollow
