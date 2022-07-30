@@ -125,12 +125,13 @@ h1, h2, h3, h4, h5
 .bmc-btn-container
 {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .bmc-btn
 {
     min-width: 150px;
-    font-size: 17px;
+    font-size: 17px !important;
 }
 
 .TwitterFollow
