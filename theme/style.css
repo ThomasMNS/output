@@ -383,7 +383,12 @@ h1, h2, h3, h4, h5
 
 .Page h1, h2, h3, h4
 {
-    margin: 2.2rem 0 1.5rem 0;
+    margin: 1.5rem 0 1.2rem 0;
+}
+
+.Page iframe
+{
+    margin: 20px auto 30px auto;
 }
 
 /* Mobile */
